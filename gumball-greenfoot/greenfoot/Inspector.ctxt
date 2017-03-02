@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Inspector
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Inspector\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=obj
+comment1.target=void\ add(Picker)
+comment2.params=obj
+comment2.target=void\ remove(Picker)
+comment3.params=coin
+comment3.target=void\ inspect(Coin)
+numComments=4
